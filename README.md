@@ -11,6 +11,11 @@ I build reusable, installable, and verifiable AI workflows and agent skills.
 - HTML-first 演示文稿与视觉交付 / HTML-first presentations and visual deliverables
 - 可移植的本地自动化工具 / Portable local automation tools
 
+## Websites / 我做的网站
+
+- [DailyCited](https://dailycited.com/) · 追踪 AI 新闻，标注已确认消息与传闻 / AI news tracking with confirmed reports and rumors clearly labeled
+- [ShortDramaWords](https://shortdramawords.com/) · 按标题关键词发现英文短剧 / Discover English-language short dramas by title keywords
+
 ## Featured projects / 代表项目
 
 ### [html-ppt-maker](https://github.com/349840432m-dev/html-ppt-maker)
